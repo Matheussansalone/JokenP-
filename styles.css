@@ -15,7 +15,7 @@ body {
 
 .conteiner {
     padding: 20px;
-    background-color: #ccd5ae;
+    background-color: #9c27b0;
     border-radius: 10PX;
     display: flex;
     flex-direction: column;
@@ -51,12 +51,12 @@ button {
 }
 
 #paper {
-    background-color: #d90429;
+    background-color: #007200;
 
 }
 
 #scissors {
-    background-color: #ffba08;
+    background-color: #f44708;
 
 }
 
@@ -74,5 +74,5 @@ p {
 }
 
 .machine-score span {
-    color: red;
+    color: #bf1a0b;
 }
